@@ -1,0 +1,13 @@
+Vamos fazer um ebook, para isso, vamos precisar primeiramente um template em latex, com as seguintes características:
+
+- Tamanho A5 
+- Deve incluir uma página de portada com espaço para inserir uma imagem (ex: portada.jpg) e os dados do título e autor.
+- O design deve ser elegante e refinado, pensado para uma experiência de leitura agradável, tanto em PDF quanto em leitura digital.
+- Usar tipografia de alta legibilidade e aparência clássica (como EB Garamond, Cormorant Garamond ou similar).
+- Deve ter personalização de capítulos e seções introdutórias, com uso sutil de cores e espaçamento confortável.
+- Incluir exemplos de capítulos, seções e um prefácio.
+- Margens equilibradas para o formato A5 e layout bem distribuído.
+
+- O código deve estar completamente pronto para compilação e comentado para fácil edição posterior.
+
+O objetivo é produzir um eBook visualmente harmônico e literariamente elegante,como os livros de ensaio ou divulgação científica.
