@@ -1,0 +1,19 @@
+PORTADA:
+
+Faz uma portada para um Ebook chamado: “Entre Parênteses: Histórias, ideias e curiosidades do infinito mundo da Matemática"  -- Tamanho A5
+- A portada deve ser chamativa, criativa.
+
+- Não deixar nome do titutlo e subtitulo, nem o do autor, só o desenho da portada.
+
+
+-------------------------------------------------
+EDITANDO A PORTADA
+
+usando a imagem escolhida depois de gerarla usamdo chatgpt/Gemini, temos o seguinte promt:
+
+Usando a imagem anexada. Quero melhorar a imagen dessa portada: 
+-manter o tamanho A5
+- Não baixar a qualidade da imagem 
+-Usa uma fonte para os titulos atrativa, chamativa -que se veja criativa
+- coloca como tirulo: “Entre Parênteses: Histórias, ideias e curiosidades do infinito mundo da Matemática"
+-nome do autor: Juan Cabrera Cuellar
